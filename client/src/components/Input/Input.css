@@ -13,7 +13,7 @@
     outline: none;
   }
   .sendButton {
-    color: #fff !important;
+    color: rgb(218, 218, 218) !important;
     text-transform: uppercase;
     text-decoration: none;
     background: #2979FF;
